@@ -55,7 +55,6 @@
   import DxCheckBox from 'devextreme-vue/check-box';
   import ArrayStore from 'devextreme/data/array_store';
 import { tasks } from './data';
-
   
   const dataSource = new ArrayStore({
     key: 'id',
