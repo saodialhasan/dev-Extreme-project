@@ -70,6 +70,7 @@
               />
               <DxTab
                 title="Phone"
+                
               >
                 <DxSimpleItem
                   data-field="Phone"
